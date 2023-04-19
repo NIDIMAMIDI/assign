@@ -18,6 +18,7 @@ elif marks > 40 and marks <= 50 :
       print("A")
 else :
       print("FAIL")
+print("Hello Everyone")
 
 
 
